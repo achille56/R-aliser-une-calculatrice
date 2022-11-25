@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+td button {
+    width: 100%;
+    height: 50px;
+    box-shadow: 2px 2px 2px black;
+}
+
+#calculatrice {
+    border: 4px solid black;
+    border-radius: 8px;
+    background-color: coral;
+}
+
+body {
+    background-color: wheat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td {
+    border-radius: 5px;
+    padding: 0.5rem;
+    width: 100px;
+    height: 100px;
+}
+
+input {
+    border: 2px solid grey;
+    border-radius: 6px;
+    width: 80%;
+    height: 50px;
+    box-shadow: 2px 2px 2px black;
+}
